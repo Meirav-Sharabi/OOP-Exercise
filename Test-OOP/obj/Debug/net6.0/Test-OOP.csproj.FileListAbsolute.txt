@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\bin\Debug\net6.0\Test-OOP.exe
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\bin\Debug\net6.0\Test-OOP.deps.json
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\bin\Debug\net6.0\Test-OOP.runtimeconfig.json
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\bin\Debug\net6.0\Test-OOP.dll
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\bin\Debug\net6.0\Test-OOP.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.dll
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\refint\Test-OOP.dll
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\Test-OOP.genruntimeconfig.cache
+C:\Users\User\Desktop\הנדסת תוכנת\Test-OOP\Test-OOP\obj\Debug\net6.0\ref\Test-OOP.dll
